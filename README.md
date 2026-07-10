@@ -33,7 +33,7 @@ programs, and AI-driven insights live on App Store and Google Play.
 NourishDoc is a comprehensive women's health and wellness app live
 on both the App Store and Google Play. It combines personal health
 tracking with structured expert-led content, certified coach access,
-and AI-powered daily insights — all in a single cross-platform
+and AI-powered daily insights all in a single cross-platform
 Flutter app.
 
 ---
@@ -155,12 +155,12 @@ Ongoing feature development and maintenance.
 
 ## Developer
 
-**Ahmad Raza**
+**Hussain Ahmed**
 Senior Flutter and Mobile AI Developer
 8 years experience, 30+ production apps shipped
 
-- Upwork: https://www.upwork.com/freelancers/xbot
-- Email: hassanxbot1c@gmail.com
+- Upwork: (https://www.upwork.com/freelancers/~01364d92ed7bc15724)
+- Email: hussainxbot1c@gmail.com
 - MixerCloud: https://apps.apple.com/us/app/mixercloud/id6740339899
 - Beautora: https://apps.apple.com/us/app/beautora/id6745489516
 - OsteoViewer: Coming soon to App Store
