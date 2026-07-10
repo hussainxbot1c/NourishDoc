@@ -4,7 +4,7 @@
 
 A production-grade health and wellness app combining daily habit
 tracking, menstrual cycle monitoring, expert coach sessions, guided
-programs, and AI-driven insights — live on App Store and Google Play.
+programs, and AI-driven insights live on App Store and Google Play.
 
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%26%20Android-blue?style=flat-square)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
