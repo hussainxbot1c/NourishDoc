@@ -20,7 +20,7 @@ programs, and AI-driven insights live on App Store and Google Play.
 ## Screenshots
 
 <div align="center">
-<img src="[screenshots/screen1.png](https://github.com/hussainxbot1c/NourishDoc/blob/main/DashBoard.jpeg)" width="200"/>
+<img src=(https://github.com/hussainxbot1c/NourishDoc/blob/main/DashBoard.jpeg)" width="200"/>
 <img src="screenshots/screen2.png" width="200"/>
 <img src="screenshots/screen3.png" width="200"/>
 <img src="screenshots/screen4.png" width="200"/>
